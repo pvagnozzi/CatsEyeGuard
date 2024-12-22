@@ -1,0 +1,27 @@
+_commit: v0.0.61
+_src_path: gh:serious-scaffold/ss-python
+author_email: piergiorgio.vagnozzi@gmail.com
+author_name: Piergiorgio Vagnozzi
+copyright_holder: Piergiorgio Vagnozzi
+copyright_license: MIT License
+copyright_year: '2024'
+coverage_threshold: 100
+default_py: '3.12'
+development_status: Alpha
+max_py: '3.12'
+min_py: '3.12'
+module_name: catseyeguard
+organization_name: Piergiorgio Vagnozzi
+package_name: catseyeguard
+platforms:
+- macos
+- ubuntu
+- windows
+project_description: Automatic home anomaly detection powered with AI.
+project_name: CatsEyeGuard
+readme_content: '## A multiline README content
+
+    '
+repo_name: catseyeguard
+repo_namespace: pvagnozzi
+repo_platform: github

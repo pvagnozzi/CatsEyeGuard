@@ -1,0 +1,6 @@
+click
+keras
+ollama
+pydantic_settings
+opencv-python
+ultralytics
